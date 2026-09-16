@@ -1,4 +1,6 @@
 # apt-key-install
+[![Sponsor @tmiland](https://img.shields.io/badge/Sponsor-%40tmiland-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/tmiland)
+
 Automatically retrieve and register a given repository's PGP key with apt
 
 # Synopsis
